@@ -5,4 +5,4 @@ summer_olympics.each do |place, year|
   puts "the #{place} summer olympics took place in #{year}"
   puts"
   
-end 
+ end 
