@@ -2,4 +2,4 @@ summer_olympics = {"sydney" => 2000, "athens" => 2004, "beijing" => 2008, "londo
 
 summer_olympics.each do |place,year|
   
-  
+  puts 
